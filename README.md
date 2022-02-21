@@ -1,1 +1,1 @@
-# digitalhumanity
+# Digihumanity
